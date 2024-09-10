@@ -20,6 +20,18 @@ let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
 	'www.who.int:8880#官方优选域名',
+'visa.cn:443:80#HK',
+'www.visa.com:8443:80#HK',
+'cis.visa.com:2053:80#HK',
+'africa.visa.com:2083:80#HK',
+'www.visa.com.sg:2087:80#HK',
+'www.visaeurope.at:2096:80#HK',
+'www.visa.com.mt:8443:80#HK',
+'qa.visamiddleeast.com:80#HK',
+'time.is:80#HK',
+'www.wto.org:8443:80#HK',
+'chatgpt.com:2087:80#HK',
+'icook.hk:80#HK',
 ];
 
 // 设置优选noTLS地址api接口
